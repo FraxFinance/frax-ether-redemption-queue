@@ -52,8 +52,8 @@ optimizer = false
 src = "_"
 test = "_"
 optimizer = true
-optimizer_runs = 100_000
-via_ir = false
+optimizer_runs = 1_000_000
+via_ir = true
 
 [profile.test]
 src = "_"
