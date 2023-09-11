@@ -1,0 +1,27 @@
+# Compiler files
+cache/
+out/
+
+
+# Ignores development broadcast logs
+broadcast
+
+# Docs
+docs/
+
+# Dotenv file
+.env
+.env*
+.env
+.env.forge
+.env.test
+.env.save
+..env.swp
+
+#misc
+node_modules
+.DS_Store
+.vscode
+lcov.info
+report/
+.idea/
